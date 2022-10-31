@@ -1,4 +1,7 @@
-@@ -0,0 +1,218 @@
+// BOTNET BY SPARROW#3378
+
+
+
 // IMPORTS, VARIABLES & OTHERS
 
 const prompt = require('prompt-sync')();
