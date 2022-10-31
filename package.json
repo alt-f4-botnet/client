@@ -1,0 +1,25 @@
+{
+  "name": "alt-f4-client-v1",
+  "version": "1.0.0",
+  "description": "ALT-F4-Client-V1",
+  "main": "client.js",
+  "scripts": {
+    "test": "node client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alt-f4-botnet/client.git"
+  },
+  "keywords": [
+    "ALT-F4",
+    "Botnet",
+    "DDoS",
+    "Sparrow3378"
+  ],
+  "author": "Sparrow3378",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alt-f4-botnet/client/issues"
+  },
+  "homepage": "https://github.com/alt-f4-botnet/client#readme"
+}
