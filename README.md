@@ -11,7 +11,7 @@ Everything you need to use the botnet, hereinafter referred to as a client, can 
 # Setuping
 
  1.  git clone https://github.com/alt-f4-botnet/client.git
- 2.  cd client
+ 2.  cd client-main
  3.  npm install prompt-sync fs prompt-sync puppeteer xhr2 dotenv
  4.  node client.js
  5.  login with you authkey
