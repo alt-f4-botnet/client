@@ -13,10 +13,11 @@ Everything you need to use the botnet, hereinafter referred to as a client, can 
  1.  git clone https://github.com/alt-f4-botnet/client.git
  2.  cd client
  3.  npm install prompt-sync fs prompt-sync puppeteer xhr2 dotenv
- 4.  node client.js
- 5.  login with you authkey
- 6.  type method, for example raw 
- 7.  Put URL not domain
+ 4.  rename example.env to .env
+ 5.  node client.js
+ 6.  login with you authkey
+ 7.  type method, for example raw 
+ 8.  Put URL not domain
 
 # Methods
 ### LAYER7: 
