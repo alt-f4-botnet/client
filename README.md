@@ -19,6 +19,9 @@ Everything you need to use the botnet, hereinafter referred to as a client, can 
  7.  type method, for example raw 
  8.  Put URL not domain
 
+# Warning
+Warning, use only for educational purposes, I know you won't follow this rule anyway, but you have been warned.
+
 # Methods
 ### LAYER7: 
 > raw ( more methods soon )
